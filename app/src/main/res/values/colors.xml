@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="maiColor">#0074DF</color>
+    <color name="lightBlue">#C8E4FF</color>
+    <color name="activityColor">#131313</color>
+    <color name="txtGray">#8C8C8C</color>
+</resources>
